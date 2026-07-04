@@ -3,9 +3,11 @@
 # 剪纸动画工具（Cutout Animation Tools）- 使用文档
 这是 Blender/Godot 插件 Cutout Animation Tools 的使用文档。
 
-如果你喜欢这个插件，并愿意通过小额捐赠来支持我，欢迎点击这里：
+如果你喜欢这个插件，并愿意通过小额捐赠来支持我，欢迎使用微信扫码打赏：
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8TB6CNT9G8LEN)
+<img src="./wechat_donate.jpg" width="250">
+
+> 收款人：天梦君
 
 ## 简介
 Cutout Animation Tools（简称 COA Tools）是一款用于 Blender 的 2D 骨骼绑定与动画套件。它提供与 Spine、Spriter 等程序类似的工具。COA Tools 让你能够在 Blender 中快速创建 2D 剪纸角色/动画。得益于 Blender 出色的动画系统与本插件的配合，你可以获得一套功能强大的 2D 动画解决方案。整套工具由 3 个不同的组件组成：Photoshop 精灵图导出器、Blender 插件、Godot 导入器。
